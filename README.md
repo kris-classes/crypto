@@ -8,3 +8,4 @@
 ## Week 2
 
 * [Python - cryptography](https://cryptography.io/en/latest/) - Cryptography library for Python
+* https://automatetheboringstuff.com/
