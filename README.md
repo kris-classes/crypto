@@ -41,4 +41,4 @@ https://realpython.com/ - good and well described Python courses and tutorials.
 
 https://www.linkedin.com/learning/paths/advance-your-skills-in-python?src=go-pa&veh=sem_src.go-pa_c.LLS-C_APAC_All_ANZ_Search_Google-NB_DR-PRS_Broad_Dev-Python-Beta_All_English_Core-MKAG_pkw.%2Bfree%20%2Bpython%20%2Bonline%20%2Bcourse_pmt.b_pcrid.479305426463_pdv.c_plc._trgid.kwd-447279049564_net.g_learning&trk=sem_src.go-pa_c.LLS-C_APAC_All_ANZ_Search_Google-NB_DR-PRS_Broad_Dev-Python-Beta_All_English_Core-MKAG_pkw.%2Bfree%20%2Bpython%20%2Bonline%20%2Bcourse_pmt.b_pcrid.479305426463_pdv.c_plc._trgid.kwd-447279049564_net.g_learning&mcid=6626616148786065459&cname=&camid=11601612950&asid=115519690760&targetid=kwd-447279049564&crid=479305426463&placement=&dev=c&ends=1&gclid=Cj0KCQiAs5eCBhCBARIsAEhk4r6OoRML5U6IarfFc0Qd64gx6IsQ07FYUwDG7oLy21d9ONeO52jz-l8aAv9rEALw_wcB&gclsrc=aw.ds - this is only 1 month free trial but is decent.
 
-https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Python but many other langranges)
+https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Python but many other langranges as well)
