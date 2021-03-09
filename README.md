@@ -44,3 +44,5 @@ https://www.linkedin.com/learning/paths/advance-your-skills-in-python?src=go-pa&
 https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Python but many other langranges as well)
 
 https://docs.python.org/3/tutorial/index.html#tutorial-index Found this as a good overview of Python and useful reference when coding. - Kirill
+
+https://www.linkedin.com/learning/learning-cryptography-and-network-security - doing this at the moment to support my cryptography studies. Very good. David D :)
