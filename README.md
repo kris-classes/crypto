@@ -1,10 +1,10 @@
 # crypto
 
 ## repl.it
-[Click here to access repl.it](https://repl.it/@krisrp/crypto)
+[Click here to practice programming with the class exercises](https://repl.it/@krisrp/crypto) - Check back often for more exercises.
 
 ## Python Exercises
-See the /exercises directory for code examples. I'll add more to these as we go. - Kris
+See the /exercises directory for code examples.
 
 To run them do the following:
 Click the Shell tab on repl.it
