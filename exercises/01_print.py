@@ -7,6 +7,6 @@ print(123)
 
 print(42.0324)
 
-print(1 + 2)
+print(1 + 2)  # Comments can also go at the end of a line.
 
-print('hello' + 123)  # Python will join these together
+print('hello' + 123)  # Python will join these together.
