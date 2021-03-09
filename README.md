@@ -45,4 +45,4 @@ https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Py
 
 https://docs.python.org/3/tutorial/index.html#tutorial-index Found this as a good overview of Python and useful reference when coding. - Kirill
 
-https://www.linkedin.com/learning/learning-cryptography-and-network-security - doing this at the moment to support my cryptography studies. Very good. David D :)
+https://www.linkedin.com/learning/learning-cryptography-and-network-security - doing this at the moment to support my cryptography studies. Very good as an overview to get a head start on what we can expect in this course for those of us that like a flipped classroom. David D :)
