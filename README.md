@@ -29,7 +29,7 @@ Add a link below to a learning resource that's helped you so far and say why you
 
 e.g.
 
-[PyMOTW](https://pymotw.com/3/) - Python Module Of The Week. A list of built-in Python modules and how to use them. - Kris
+[PyMOTW](https://pymotw.com/3/) - Python Module Of The Week. A list of built-in Python modules and how to use them. Maybe be a bit advanced for some students right now (week 2) but you'll find it useful by the time you finish the semester. - Kris
 
 
 
