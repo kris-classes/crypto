@@ -34,4 +34,8 @@ e.g.
 
 
 Add yours here.
+https://www.python.org/ - official website of the Python project. 
+https://www.python.org/dev/peps/pep-0008  - This link refers to the PEP(Python Enhancement Proposals). It is very important to read to make very good consistent code and following coding standards.
+https://realpython.com/ - good and well described Python courses and tutorials. 
+
 
