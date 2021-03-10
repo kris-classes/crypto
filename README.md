@@ -35,9 +35,10 @@ e.g.
 
 Add yours here.
 
-https://www.python.org/ - official website of the Python project. 
-https://www.python.org/dev/peps/pep-0008  - This link refers to the PEP(Python Enhancement Proposals). It is very important to read to make very good consistent code and following coding standards.
-https://realpython.com/ - good and well described Python courses and tutorials. 
+Ruslan Mustaev 
+1. https://www.python.org/ - official website of the Python project.
+2. https://www.python.org/dev/peps/pep-0008  - This link refers to the PEP(Python Enhancement Proposals). It is very important to read to make very good consistent code and following coding standards.
+3. https://realpython.com/ - good and well described Python courses and tutorials. 
 
 [Nik Ledogorov: LinkedIn - Advance Your Skills In Python](https://www.linkedin.com/learning/paths/advance-your-skills-in-python) - this is only 1 month free trial but is decent.
 
