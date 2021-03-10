@@ -18,3 +18,11 @@ print('These are strings')
 type('this is a string')
 type('also a string')
 type('x')
+
+# Python supports E-notation: https://en.wikipedia.org/wiki/Scientific_notation#E_notation
+print('The number below is 1000')
+print(1e3)
+print('The number below is 0.001')
+print(1e-3)
+
+
