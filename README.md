@@ -35,7 +35,11 @@ e.g.
 
 Add yours here.
 
-Ruslan Mustaev 
+Alice Deng
+1. https://developers.google.com/edu/python - I found this link very good, it cover a basic python language, and also there have some very goood example on it  
+2. https://www.tutorialspoint.com/python/index.htm - Another good site like w3schools.com which give you very good Python Tutorial for you to understand.
+ 
+ Ruslan Mustaev 
 1. https://www.python.org/ - official website of the Python project.
 2. https://www.python.org/dev/peps/pep-0008  - This link refers to the PEP(Python Enhancement Proposals). It is very important to read to make very good consistent code and following coding standards.
 3. https://realpython.com/ - good and well described Python courses and tutorials. 
