@@ -59,3 +59,5 @@ Jag: somethings that helped me when I was doing my computer science degree at Un
 [Nick Castle: ScratchPad](https://scratchpad.co.nz/product/develop-websites-using-python/) - This is a private company inside New Zealand which you can go to their classes if you need to attend classes in person. One of their closest office is at Mount Albert.
 
 Mark David: https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/ - I liked how this guy wrote this guide, as a guy that prefers to read and then try it rather than watching it, I found it very useful.
+
+Sarah Abbas: For beginners like me, I found a book called COMPUTER CODING FOR KIDS BY CAROL VORDERMAN very useful to me as it is simple and easy.
