@@ -57,3 +57,5 @@ Jag: somethings that helped me when I was doing my computer science degree at Un
 [Jag's GDrive link](https://drive.google.com/drive/folders/1qfa7k-2rxZ_Or80MykGOhMaCU_rFfGO3?usp=sharing) - this drive has all the basics of python and honestly if you binge watch them like we all do for netflix you will ace python this saved me in my degree.
 
 [Nick Castle: ScratchPad](https://scratchpad.co.nz/product/develop-websites-using-python/) - This is a private company inside New Zealand which you can go to their classes if you need to attend classes in person. One of their closest office is at Mount Albert.
+
+Mark David: https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/ - I liked how this guy wrote this guide, as a guy that prefers to read and then try it rather than watching it, I found it very useful.
