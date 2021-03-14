@@ -61,3 +61,9 @@ Jag: somethings that helped me when I was doing my computer science degree at Un
 Mark David: https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/ - I liked how this guy wrote this guide, as a guy that prefers to read and then try it rather than watching it, I found it very useful.
 
 Sarah Abbas: For beginners like me, I found a book called COMPUTER CODING FOR KIDS BY CAROL VORDERMAN very useful to me as it is simple and easy.
+
+Narendra Inti : I found the socraticia YouTube videos very useful as I had no prior programming experience.
+https://m.youtube.com/watch?v=bY6m6_IIN94
+
+
+
