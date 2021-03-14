@@ -70,3 +70,13 @@ Lona Mafaufau
 1. [Datacamp](https://www.datacamp.com/tracks/python-fundamentals) has 'learning tracks' with an in-built editor and small coding challenges and really fast feedback.
 2. [Hackerrank](https://www.hackerrank.com/domains/python) lets you practice online, and I like that each challenge has tutorials/editorials to compare your solution.
 3. [Mike & Matty](https://www.youtube.com/playlist?list=PLh_4sKYaH6Jy7qFzY4y51xpIovksMTNup)'s YouTube channel introduced me to some cool learning techniques which I'm trying out at the moment based on active recall, spaced repetition, and Zettelkasten method. They created an app called [Remnote](https://www.remnote.io/) which I'm also trialling. 
+
+Mohammad Shahid Siddiqui
+I Started with the basic book : Byte of Python (Swaroop)
+https://python.swaroopch.com/
+Now reading and learning with tuples and dictionaries.
+I spent time playing with Cryptography package:
+https://pypi.org/project/cryptography/
+I also installed gmpy2 to play with large prime numbers, finding next prime after a very big large num.
+https://pypi.org/project/gmpy2/
+
