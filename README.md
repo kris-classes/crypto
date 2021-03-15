@@ -82,6 +82,5 @@ https://pypi.org/project/gmpy2/
 
 
 Lavinia Tuitahi
- 
 I've used freecodecamp in the past for web development and now use it again for Python learning and just repetition of basic concepts. https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
