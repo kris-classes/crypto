@@ -84,3 +84,6 @@ https://pypi.org/project/gmpy2/
 Lavinia Tuitahi:
 I've used freecodecamp in the past for web development and now use it again for Python learning and just repetition of basic concepts. https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
+Qiao Chu
+https://www.linkedin.com/pulse/learning-python-from-zero-hero-tk-
+It explaints basic Python functions in plain words with examples. Very friendly to beginners
