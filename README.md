@@ -90,7 +90,8 @@ Qiao Chu
 https://www.linkedin.com/pulse/learning-python-from-zero-hero-tk-
 It explaints basic Python functions in plain words with examples. Very friendly to beginners
 
-jason sam
+JASON SAM--
+
 https://stackoverflow.com/questions/tagged/python. one of the best sites to ask legit questions about anyting that has to do with any programming language. the great thing about this site is that it actual peers answering the questions. the catch is that you cant just go in there and ask for answers to problems that you havent attempted, they will call you out on it.\
 
 https://www.jetbrains.com/pycharm/  just like Visual Studio, this IDE is great for pyhton programming projects.
