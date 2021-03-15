@@ -49,7 +49,7 @@ Alice Deng
 
 [Nik Ledogorov: LinkedIn - Advance Your Skills In Python](https://www.linkedin.com/learning/paths/advance-your-skills-in-python) - this is only 1 month free trial but is decent.
 
-https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Python but many other langranges as well)
+Kevin: https://www.w3schools.com/python/default.asp Python Tutorial  (not just about Python but many other langranges as well)
 
 [Kirill: Offical Python Tutorial](https://docs.python.org/3/tutorial/) - Found this as a good overview of Python and useful reference when coding.
 
