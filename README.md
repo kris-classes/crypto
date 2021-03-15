@@ -35,6 +35,9 @@ e.g.
 
 Add yours here.
 
+Loni Kerrigan
+[Codecademy] (https://www.codecademy.com) - I used this website 3 years ago to introduce myself to Python. It had some cool exercises that walk you through everything step by step. It feels like playing a game. I definitely recommend it.
+
 Alice Deng
 1. https://developers.google.com/edu/python - I found this link very good, it cover a basic python language, and also there have some very goood example on it  
 2. https://www.tutorialspoint.com/python/index.htm - Another good site like w3schools.com which give you very good Python Tutorial for you to understand.
