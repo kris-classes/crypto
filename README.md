@@ -99,3 +99,6 @@ https://stackoverflow.com/questions/tagged/python. one of the best sites to ask 
 
 https://www.jetbrains.com/pycharm/  just like Visual Studio, this IDE is great for pyhton programming projects.
 https://www.programiz.com/python-programming/examples Great tutorials
+
+Xiaowei Li(Rose)
+https://www.youtube.com/watch?v=kqtD5dpn9C8  -Python Tutorial for Beginners [Quick & Easy]
