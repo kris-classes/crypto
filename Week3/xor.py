@@ -10,6 +10,7 @@ Using code from the bitwise_and() function (see helper_functions.py), create an 
 """
 def xor(integer_a, integer_b):
     FIX_ME('Implement the xor() function')  # TODO: You can delete this line once you implement your function.
+    return 42  # TODO: Return the correct result.
 
 
 
