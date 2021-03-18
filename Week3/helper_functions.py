@@ -30,7 +30,7 @@ def bitwise_and(integer_a, integer_b):
 # Don't touch this function or your code will break.
 def FIX_ME(msg):
     print(msg)
-    return '-'
+    return 123
 
 
 if __name__ == '__main__':
