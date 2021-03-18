@@ -28,8 +28,8 @@ def bitwise_and(integer_a, integer_b):
 
 
 # Don't touch this function or your code will break.
-def FIX_ME(tmp):
-    print('Replace this function with the correct one')
+def FIX_ME(msg):
+    print(msg)
 
 
 if __name__ == '__main__':
