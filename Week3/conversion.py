@@ -68,7 +68,7 @@ except TypeError:
     print("Caught and ignoring an exception when trying bin('123')")
 
 # I created a binary() function in helper_functions.py which fixes the above problem.
-# If you get an error saying 'name binary is not defined' then type `from helper_functions import binary`
+# If you get an error saying 'name binary is not defined' then type: from helper_functions import binary
 binary(13)  # Will display '0b00001101 
  
 # Looks up the ASCII code for the character 'X' and returns the corresponding integer 88.
