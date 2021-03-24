@@ -102,3 +102,7 @@ https://www.programiz.com/python-programming/examples Great tutorials
 
 Xiaowei Li(Rose)
 https://www.youtube.com/watch?v=kqtD5dpn9C8  -Python Tutorial for Beginners [Quick & Easy]
+
+Denise Carter-Bennett:
+A lot of what I have used for learning Python has already been listed: Datacamp, JetBrains, etc.
+One other tool I use to learn Python is the Mimo app (available through iOS and Android) - I find this app really handy to reinforce the basics and something I can do on the bus.
