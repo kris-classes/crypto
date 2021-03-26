@@ -13,6 +13,8 @@ Contact me immediately if you have errors or difficulty getting past this stage.
 
 ### 1 - Test the base64_encode function and learn what it does.
 
+Go down to PyCharm's `Terminal` tab and type these commands there. You'll be using it for the rest of the homework.
+
 Run the command `python main.py base64_encode "hello from kris"` and see what
 it does.
 The program should print: `b'aGVsbG8gZnJvbSBrcmlz'` (remember that the `b`
