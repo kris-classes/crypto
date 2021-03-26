@@ -7,6 +7,8 @@
 Make `generate_key()`, `encrypt(message)`, and `decrypt(key, ciphertext)` work
 by using other functions in the file.
 
+If you get `ModuleNotFoundError: No module named 'fire'` then run the command `pip install fire` in the `Terminal` window of PyCharm. It will install a library created by Google which makes creating CLI programs easier. I'm using it for this homework.
+
 ### 1 - Test the base64_encode function and learn what it does.
 
 Run the command `python main.py base64_encode "hello from kris"` and see what
