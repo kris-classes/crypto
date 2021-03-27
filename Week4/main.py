@@ -121,7 +121,6 @@ def encrypt(message):
     print('Generating a key:')
 
     # TODO: Generate and display a key using a function from above. (Hint: 1 line of code required)
-    #key = 'changeme'  # TODO: You must use the function above to generate a key.
     key = b'password12345678' # TODO: You must use the function above to generate a key.
 
 
