@@ -108,6 +108,6 @@ A lot of what I have used for learning Python has already been listed: Datacamp,
 One other tool I use to learn Python is the Mimo app (available through iOS and Android) - I find this app really handy to reinforce the basics and something I can do on the bus.
 
 Sigrid:
-I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> useful as it is indexed and easy to jump from one topic to another, making it easy to find exactly what you need for the moment.
+I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> useful as it is indexed and easy to jump from one topic to another, making it convenient to find exactly what you need for the moment.
 
 
