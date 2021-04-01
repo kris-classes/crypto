@@ -1,19 +1,3 @@
-Homework:
-
-
-Answer a bunch of Linux utilities questions
-
-Directories
-Programs
-/etc/passwd
-strace
-netcat
-sockets
-
-hashing
-
-macs
-
 # HTCS6702 Week 5 Homework
 
 ## Exercise 0 - Basic usage of threads for concurrency.
