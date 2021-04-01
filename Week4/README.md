@@ -4,10 +4,16 @@
 
 ### 0 - Instructions:
 
-Make `generate_key()`, `encrypt(message)`, and `decrypt(key, ciphertext)` work
+If you haven't already, run `pip install cryptography` and `pip install fire`, two libraries we'll be using during this course.
+
+For homework you'll make `generate_key()`, `encrypt(message)`, and `decrypt(key, ciphertext)` work
 by using other functions in the file.
 
+Contact me immediately if you have errors or difficulty getting past this stage.
+
 ### 1 - Test the base64_encode function and learn what it does.
+
+Go down to PyCharm's `Terminal` tab and type these commands there. You'll be using it for the rest of the homework.
 
 Run the command `python main.py base64_encode "hello from kris"` and see what
 it does.
