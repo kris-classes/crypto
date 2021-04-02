@@ -62,7 +62,21 @@ Host: ifconfig.me
 ```
 
 You should receive a response containing HTTP headers and your IP address. This
-is how web browsers work. Try it with a few other websites.
+is how web browsers work. Try it with a few other websites like youtube.com, google.com, netflix.com etc.
+You'll notice that you keep receiving HTTP 301 - Moved Permanently. This is because most sites these days redirect users from HTTP (insecure) to HTTPS (secure). Unfortunately netcat doesn't support HTTPS by default, but we can use `openssl` to see how an HTTPS connection looks. Unlike HTTP running on `port 80`, HTTPS uses `port 443` so we have to connect to that instead.
+
+```shell
+openssl s_client -connect youtube.com:443
+
+# Lots of HTTPS (TLS) certificate information will appear. We'll learn more about this later in the course.
+GET / HTTP/1.1
+
+
+# press Enter twice
+```
+
+Notice that sometimes you get `HTTP/1.1 400 Bad Request`. We can talk more about this later in the course when we learn about HTTP and TLS.
+Now you know how your web browser communicates with websites! Cool huh?!
 
 
 ## Exercise 2 - Using netcat as a server.
