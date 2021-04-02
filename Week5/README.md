@@ -81,7 +81,7 @@ Now you know how your web browser communicates with websites! Cool huh?!
 
 ## Exercise 2 - Using netcat as a server.
 
-Run `nc -l -p 1234` in a terminal window then open your web browser and connect to
+Run `nc -l -p 1234` in a terminal window then open your **Kali web browser** and connect to
 [http://localhost:1234](http://localhost:1234). Netcat will display your
 browsers HTTP request in its console, which looks something like this:
 
