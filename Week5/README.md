@@ -82,7 +82,7 @@ Now you know how your web browser communicates with websites! Cool huh?!
 ## Exercise 2 - Using netcat as a server.
 
 Run `nc -l -p 1234` in a terminal window then open your **Kali web browser** and connect to
-[http://localhost:1234](http://localhost:1234). Netcat will display your
+[http://localhost:1234](http://localhost:1234). **Your browser will be 'Loading' forever**, so switch to the netcat window and it will display your
 browsers HTTP request in its console, which looks something like this:
 
 ```shell
@@ -92,7 +92,7 @@ Connection: keep-alive
 ... blah blah etc etc
 ```
 
-Go to the netcat terminal and start typing:
+Before your browser request times out, type this into the netcat terminal and check your browser after typing each line:
 
 ```shell
 HTTP/1.1 200 OK
