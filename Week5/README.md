@@ -46,7 +46,7 @@ feature: https://www.youtube.com/watch?v=sRGpvbhOhQs
 
 Either open Kali in a VM, or install `netcat` on your operating system. Netcat
 (aka `nc`) can be used as a client to talk to services. It opens a socket and
-connects to whatever you want.
+connects to whatever you want. **NOTE: Kali's netcat version may have different command arguments to other versions. Contact me if a command doesn't work**.
 
 * HTTP request with netcat
 
@@ -134,7 +134,7 @@ Received 12 bytes from the socket
 ## Exercise 5 - Reverse shell with netcat.
 
 Netcat allows you to run any command you like on the server.
-Run the command `nc -l -p 1234 -e whoami` in a terminal window, then connect to
+Run the command `nc -l -p 1234 -e whoami` in a terminal window (you may need to instead run `nc -l -p 1234 -c whoami` on Kali Linux if you get `exec whoami failed`), then connect to
 it with `nc localhost 1234` in another terminal window.
 
 What happens if you replace `whoami` with the command `ls -al`? What about the
