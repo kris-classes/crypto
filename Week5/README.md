@@ -112,7 +112,7 @@ technically it is. This is essentially how web browsers and web servers work.
 
 Create a netcat server with `nc -l -p 1234` in one terminal window.
 Open another terminal window and connect to the server with `nc localhost
-1234`. Type commands back and forth. This is how sockets work. Use `Ctrl-C` to
+1234`. Type commands into each window and watch as the output appears in the other window. You can do this for both the server and the client. This is how sockets and network applications work. Use `Ctrl-C` to
 close netcat in each terminal window.
 
 ## Exercise 4 - Viewing bytes sent with netcat.
