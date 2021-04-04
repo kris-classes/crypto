@@ -216,7 +216,7 @@ Let's create a new socket and try to find our public IP address using Python.
 
 ```python
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect('ifconfig.me', 80)
+s.connect(('ifconfig.me', 80))
 s.send(b'GET / HTTP/1.1\nHost: ifconfig.me\n\n')
 ```
 
