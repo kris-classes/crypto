@@ -354,16 +354,16 @@ s.close()
 
 
 I've created a simple single-client version of netcat in Python. The code is in
-`python_netcat.py`. You can run the server with:
+`simple_netcat.py`. You can run the server with:
 
 ```python
-python python_netcat.py server
+python simple_netcat.py server
 ```
 
 And run the client in a different terminal window with:
 
 ```python
-python python_netcat.py client
+python simple_netcat.py client
 ```
 
 Take the time to understand how this code works, as you'll be using it for the
