@@ -434,6 +434,7 @@ c = cmac.CMAC(algorithms.AES(key))
 message = b'attack at dawn')
 c.update(message)
 mac_to_send = c.finalize()
+print(f'The MAC to send is: {mac_to_send}')
 ```
 
 We're not encrypting the message `hello` here, we're just generating a MAC for
