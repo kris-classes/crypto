@@ -4,6 +4,7 @@
 
 Make sure you still have the `fire` library installed from Week 4. If you don't then run `pip
 install fire`.
+NOTE: Use the `python3` command on Kali linux. The `python` command runs version 2.7 (the old unsupported one) and some commands won't work.
 You don't need to do any coding for this example, but try to understand what the
 code is doing. Watch this video on using PyCharm's Debugger for how to use this
 feature: https://www.youtube.com/watch?v=sRGpvbhOhQs
