@@ -4,6 +4,7 @@
 
 Make sure you still have the `fire` library installed from Week 4. If you don't then run `pip
 install fire`.
+NOTE: Use the `python3` command on Kali linux. The `python` command runs version 2.7 (the old unsupported one) and some commands won't work.
 You don't need to do any coding for this example, but try to understand what the
 code is doing. Watch this video on using PyCharm's Debugger for how to use this
 feature: https://www.youtube.com/watch?v=sRGpvbhOhQs
@@ -46,7 +47,7 @@ feature: https://www.youtube.com/watch?v=sRGpvbhOhQs
 
 Either open Kali in a VM, or install `netcat` on your operating system. Netcat
 (aka `nc`) can be used as a client to talk to services. It opens a socket and
-connects to whatever you want.
+connects to whatever you want. **NOTE: Kali's netcat version may have different command arguments to other versions. Contact me if a command doesn't work**.
 
 * HTTP request with netcat
 
@@ -62,13 +63,27 @@ Host: ifconfig.me
 ```
 
 You should receive a response containing HTTP headers and your IP address. This
-is how web browsers work. Try it with a few other websites.
+is how web browsers work. Try it with a few other websites like youtube.com, google.com, netflix.com etc.
+You'll notice that you keep receiving HTTP 301 - Moved Permanently. This is because most sites these days redirect users from HTTP (insecure) to HTTPS (secure). Unfortunately netcat doesn't support HTTPS by default, but we can use `openssl` to see how an HTTPS connection looks. Unlike HTTP running on `port 80`, HTTPS uses `port 443` so we have to connect to that instead.
+
+```shell
+openssl s_client -connect youtube.com:443
+
+# Lots of HTTPS (TLS) certificate information will appear. We'll learn more about this later in the course.
+GET / HTTP/1.1
+
+
+# press Enter twice
+```
+
+Notice that sometimes you get `HTTP/1.1 400 Bad Request`. We can talk more about this later in the course when we learn about HTTP and TLS.
+Now you know how your web browser communicates with websites! Cool huh?!
 
 
 ## Exercise 2 - Using netcat as a server.
 
-Run `nc -l -p 1234` in a terminal window then open your web browser and connect to
-[http://localhost:1234](http://localhost:1234). Netcat will display your
+Run `nc -l -p 1234` in a terminal window then open your **Kali web browser** and connect to
+[http://localhost:1234](http://localhost:1234). **Your browser will be 'Loading' forever**, so switch to the netcat window and it will display your
 browsers HTTP request in its console, which looks something like this:
 
 ```shell
@@ -78,7 +93,7 @@ Connection: keep-alive
 ... blah blah etc etc
 ```
 
-Go to the netcat terminal and start typing:
+Before your browser request times out, type this into the netcat terminal and check your browser after typing each line:
 
 ```shell
 HTTP/1.1 200 OK
@@ -98,7 +113,7 @@ technically it is. This is essentially how web browsers and web servers work.
 
 Create a netcat server with `nc -l -p 1234` in one terminal window.
 Open another terminal window and connect to the server with `nc localhost
-1234`. Type commands back and forth. This is how sockets work. Use `Ctrl-C` to
+1234`. Type commands into each window and watch as the output appears in the other window. You can do this for both the server and the client. This is how sockets and network applications work. Use `Ctrl-C` to
 close netcat in each terminal window.
 
 ## Exercise 4 - Viewing bytes sent with netcat.
@@ -120,7 +135,7 @@ Received 12 bytes from the socket
 ## Exercise 5 - Reverse shell with netcat.
 
 Netcat allows you to run any command you like on the server.
-Run the command `nc -l -p 1234 -e whoami` in a terminal window, then connect to
+Run the command `nc -l -p 1234 -e whoami` in a terminal window (you may need to instead run `nc -l -p 1234 -c whoami` on Kali Linux if you get `exec whoami failed`), then connect to
 it with `nc localhost 1234` in another terminal window.
 
 What happens if you replace `whoami` with the command `ls -al`? What about the
@@ -202,7 +217,7 @@ Let's create a new socket and try to find our public IP address using Python.
 
 ```python
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect('ifconfig.me', 80)
+s.connect(('ifconfig.me', 80))
 s.send(b'GET / HTTP/1.1\nHost: ifconfig.me\n\n')
 ```
 
@@ -340,16 +355,16 @@ s.close()
 
 
 I've created a simple single-client version of netcat in Python. The code is in
-`python_netcat.py`. You can run the server with:
+`simple_netcat.py`. You can run the server with:
 
 ```python
-python python_netcat.py server
+python simple_netcat.py server
 ```
 
 And run the client in a different terminal window with:
 
 ```python
-python python_netcat.py client
+python simple_netcat.py client
 ```
 
 Take the time to understand how this code works, as you'll be using it for the
@@ -420,6 +435,7 @@ c = cmac.CMAC(algorithms.AES(key))
 message = b'attack at dawn')
 c.update(message)
 mac_to_send = c.finalize()
+print(f'The MAC to send is: {mac_to_send}')
 ```
 
 We're not encrypting the message `hello` here, we're just generating a MAC for
