@@ -1,7 +1,47 @@
-# crypto
+# Cryptography Fundamentals course (with some AppSec)
 
-## repl.it
-[Click here to practice programming with the class exercises](https://repl.it/@krisrp/crypto) - Check back often for more exercises.
+## Details
+Most of the content (and lecture recordings) are on Moodle but I'm adding a list of topics & some resources here for anyone who wants to quickly browse them.
+
+## Book/Tutorial Recommendations
+* Serious Cryptography - JP Aumasson (Available as ebook at the library): https://nostarch.com/seriouscrypto
+* Crypto101 - lvh: https://www.crypto101.io/
+* Cryptography Engineering - Ferguson, Schneier, Kohno: https://www.schneier.com/books/cryptography-engineering
+* Security Engineering - Ross Anderson: https://www.cl.cam.ac.uk/~rja14/book.html
+* Engineering Security - Peter Gutmann: https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf
+* Manga Guide to Cryptography - Mitano, Sato, Hinaki: https://nostarch.com/mangacrypto
+* The Codebreakers - David Kahn: https://archive.org/details/B-001-001-264
+* Violent Python - TJ O'Connor (Uses old Python 2 so contact me for help updating small bits of the code): https://www.oreilly.com/library/view/violent-python/9781597499576/
+* Programiz Python Tutorial: https://www.programiz.com/python-programming
+* NSA Python Training Document (skip to Lesson 02): https://archive.org/details/comp3321
+
+## YouTube Channels
+### People
+* STÖK: https://www.youtube.com/c/STOKfredrik/
+* LiveOverflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+* Bill Buchanan: https://www.youtube.com/user/billatnapier
+* NetworkChuck: https://www.youtube.com/user/NetworkChuck
+* John Hammond: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
+* Jim Browning: https://www.youtube.com/c/JimBrowning
+* Null Byte: https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+* Computerphile: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
+* IppSec: https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+* HackerSploit: https://www.youtube.com/c/HackerSploit/videos
+* Marcus Hutchins: https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
+
+### Conferences
+* DEFCON: https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+* CCC (some videos in German): https://www.youtube.com/user/mediacccde
+* OWASP NZ: https://www.youtube.com/channel/UCWjcSSETjqhzBlVxXTW1zhg
+* PyVideo (Python Conferences): https://pyvideo.org/
+* BSides Canberra: https://www.youtube.com/channel/UCbgRw_yk53hVtNXEX2DtyDQ
+* BSides London: https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA
+* BSides Capetown: https://www.youtube.com/channel/UCf3DodO2LfdbtHywUpI-nPA
+* ShmooCon: https://www.youtube.com/c/0xdade/videos
+* BlackHat: https://www.youtube.com/c/BlackHatOfficialYT/videos
+* Hack.lu: https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/videos
+* CISA: https://www.youtube.com/channel/UCxyq9roe-npgzrVwbpoAy0A
+* RSA: https://www.youtube.com/c/RSAConference/videos
 
 ## Python Exercises
 See the /exercises directory for code examples.
@@ -14,18 +54,34 @@ Run the file you want using the `python` command. e.g. `python 01_print.py`.
 
 ## Week 1
 
+### Topics:
+* History
+* Classical Ciphers
+* XOR
+* GitHub
+* Kali
+* Python Basics
+
 * [cryptii.com](https://cryptii.com/) - Website with many interactive ciphers/encoding.
 * [repl.it](https://repl.it/) - Online code editor
 
 ## Week 2
 
+### Topics
+* Binary
+* ASCII
+* Hexadecimal
+* Attack Model
+* Kerckhoff's Principle
+* Python's Cryptography Library
 * [Python - cryptography](https://cryptography.io/en/latest/) - Cryptography library for Python
 * https://automatetheboringstuff.com/
 
 
-## Week 2 Homework Activity (See Moodle for all Homework)
+### Homework Activity (See Moodle for all Homework)
 
-Add a link below to a learning resource that's helped you so far and say why you're linking it. Resources must be unique so the faster you are the easier it'll be for you.
+* One-Time Pad by Hand
+* Add a link below to a learning resource that's helped you so far and say why you're linking it. Resources must be unique so the faster you are the easier it'll be for you.
 
 e.g.
 
@@ -111,3 +167,107 @@ Sigrid:
 I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> useful as it is indexed and easy to jump from one topic to another, making it convenient to find exactly what you need for the moment.
 
 
+## Week 3
+
+### Topics
+* Padding, Cribs, and Archive.org
+* Key Reuse with One-Time Pad
+* Frequency Analysis & Classical Cipher Example
+* Usage of hexadecimal
+* Cryptanalysis Attack Models/Types
+* JetBrains IDEs & PyCharm
+* Kali Linux & VirtualBox
+* Randomness & Random Number Generators (RNGs)
+* Confusion, Diffusion, and the Avalanche Effect
+* Ciphertext Indistinguishability (IND) and Non-Malleability (NM)
+* ARX (Add-Rotate-XOR) Ciphers
+* S-Boxes (Substitution) and P-Boxes (Permutation)
+
+
+## Week 4
+
+### Topics
+* ARX Ciphers continued
+* Block Ciphers
+* P-Boxes, S-Boxes, Substitution-Permutation Networks (SP Network)
+* Parity Bits
+* Question about VPNs
+* Feistel Networks
+* DES - Data Encryption Standard, DES-X & Key whitening, Triple-DES aka 3DES
+* AES - Advanced Encryption Standard
+* Block Cipher Modes of Operation
+
+
+## Week 5
+
+### Topics
+* Confidentiality
+* Block Cipher Modes of Operation (Confidentiality-only): ECB, CBC, CTR, OFB, CFB.
+* Stream Ciphers
+* Nonce: Number-used-only-ONCE.
+* Cryptographic Oracle & Oracle Attack
+* Common Vulnerabilities & Exposures (CVE)
+* Integrity
+* Parity Bits (revision)
+* Check-Digits
+* Checksums
+* Hashing (brief overview - more to come)
+* Message Authentication Codes (brief overview - more to come)
+* Dates, Time, and Timezones (Answering question from student)
+* Sockets & Netcat (brief overview - more to come)
+* Threading (brief overview - more to come)
+
+
+## Week 6 - No Classes due to Easter Holidays
+
+## Week 7
+
+* Netcat
+* UNIX: /etc/services & ports, less, pipes
+* Hex Editors & Assembly Language Basics
+* UNIX: Manpages, Keyboard Shortcuts / Signals, System Calls
+* Library Security & Supply Chain Attacks
+* Sockets with Python / Homework Review
+* Netcat & Reverse Shells
+* curl & HTTP
+* Python: Classes & Files
+* Requests/Responses
+* Botnet/Malware Quick Code Review
+* CTFs & upcoming HackTheBox Cryptapocalypse
+
+
+## Week 8
+
+To be added.
+
+## Week 9
+
+To be added.
+
+## Week 10
+
+To be added.
+
+## Week 11
+
+To be added.
+
+## Week 12
+
+To be added.
+
+## Week 13
+
+To be added.
+
+## Week 14
+
+To be added.
+
+## Week 15
+
+To be added.
+
+## Week 16
+
+To be added.
