@@ -61,7 +61,6 @@ Run the file you want using the `python` command. e.g. `python 01_print.py`.
 * GitHub
 * Kali
 * Python Basics
-
 * [cryptii.com](https://cryptii.com/) - Website with many interactive ciphers/encoding.
 * [repl.it](https://repl.it/) - Online code editor
 
