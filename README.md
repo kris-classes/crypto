@@ -172,12 +172,11 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 * Padding, Cribs, and NSA Archive on Archive.org
 * Key Reuse with One-Time Pad
 * Frequency Analysis & Classical Cipher Example
-* Usage of hexadecimal
 * Cryptanalysis Attack Models/Types
 * JetBrains IDEs & PyCharm
 * Kali Linux & VirtualBox
-* Randomness & Random Number Generators (RNGs)
-* Confusion, Diffusion, and the Avalanche Effect
+* Randomness & Pseudo-Random Number Generators (PRNGs)
+* Confusion & Diffusion
 * Ciphertext Indistinguishability (IND) and Non-Malleability (NM)
 * ARX (Add-Rotate-XOR) Ciphers
 * S-Boxes (Substitution) and P-Boxes (Permutation)
