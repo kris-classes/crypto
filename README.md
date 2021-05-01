@@ -169,7 +169,7 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 ## Week 3
 
 ### Topics
-* Padding, Cribs, and Archive.org
+* Padding, Cribs, and NSA Archive on Archive.org
 * Key Reuse with One-Time Pad
 * Frequency Analysis & Classical Cipher Example
 * Usage of hexadecimal
