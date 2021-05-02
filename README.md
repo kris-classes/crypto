@@ -36,6 +36,7 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 * Darknet Diaries: https://darknetdiaries.com/
 * Risky Business: https://risky.biz/netcasts/risky-business/
 * Unsupervised Learning / Daniel Miessler: https://danielmiessler.com/podcast/
+* StormCast: https://isc.sans.edu/podcast.html
 
 ### Conferences
 * DEFCON: https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
@@ -50,6 +51,14 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 * Hack.lu: https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/videos
 * CISA: https://www.youtube.com/channel/UCxyq9roe-npgzrVwbpoAy0A
 * RSA: https://www.youtube.com/c/RSAConference/videos
+
+
+## Communities
+
+* [/r/crypto](https://reddit.com/r/crypto)
+* [/r/netsec](https://reddit.com/r/netsec)
+* [/r/reverseengineering](https://reddit.com/r/reverseengineering)
+* [HackerNews](https://news.ycombinator.com)
 
 ## Python Exercises
 See the /exercises directory for code examples.
