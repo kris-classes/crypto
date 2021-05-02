@@ -30,6 +30,7 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 * IppSec: https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 * HackerSploit: https://www.youtube.com/c/HackerSploit/videos
 * Marcus Hutchins: https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
+* CryptoCat: https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ
 
 ### Podcasts
 
