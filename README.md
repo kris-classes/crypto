@@ -17,17 +17,25 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 
 ## YouTube Channels
 ### People
+* Computerphile: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
 * STÖK: https://www.youtube.com/c/STOKfredrik/
 * LiveOverflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 * Bill Buchanan: https://www.youtube.com/user/billatnapier
+* Professor Messer: https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ
+* Tib3rius: https://www.youtube.com/channel/UCs6dtu4e0JL-N4hVszsFpBw
 * NetworkChuck: https://www.youtube.com/user/NetworkChuck
 * John Hammond: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
 * Jim Browning: https://www.youtube.com/c/JimBrowning
 * Null Byte: https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
-* Computerphile: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
 * IppSec: https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 * HackerSploit: https://www.youtube.com/c/HackerSploit/videos
 * Marcus Hutchins: https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
+
+### Podcasts
+
+* Darknet Diaries: https://darknetdiaries.com/
+* Risky Business: https://risky.biz/netcasts/risky-business/
+* Unsupervised Learning / Daniel Miessler: https://danielmiessler.com/podcast/
 
 ### Conferences
 * DEFCON: https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
