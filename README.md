@@ -1,4 +1,4 @@
-# Cryptography Fundamentals course (with some AppSec)
+# Cryptography Fundamentals course (now with some AppSec)
 
 ## Details
 Most of the content (and lecture recordings) are on Moodle but I'm adding a list of topics & some resources here for anyone who wants to quickly browse them.
@@ -254,36 +254,69 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 
 ## Week 8
 
-To be added.
+### Planned Topics
+* Message Authentication Codes
+* Authenticated Encryption (AE)
+* Authenticated Encryption with Associated Data (AEAD)
+* Hashing
+* Passwords
+* HMAC
+* Diffie-Hellman Key Exchange
 
 ## Week 9
 
-To be added.
+### Planned Topics
+* RSA
+* Elliptic Curve Cryptography (ECC)
+* Computational Hardness
+* Signatures
+* Public Key Infrastructure (PKI)
+* Transport Layer Security (TLS)
 
 ## Week 10
 
-To be added.
+### Planned Topics
+* Web Security Basics
+* APIs
+* OAuth
+* OWASP Top 10
+* Containers
 
 ## Week 11
 
-To be added.
+### Planned Topics
+* C
+* Makefiles
+* Memory Management
+* Reversing & Simple CrackMes
 
 ## Week 12
 
-To be added.
+### Planned Topics
+* Static Analysis
+* Fuzzing
+* Antivirus Evasion
+* Blockchains
+* Cryptocurrencies
+* Consensus
+* Network Algorithms
 
 ## Week 13
 
-To be added.
+### Planned Topics
+* Contact Tracing
+* Mobile Security Basics
 
 ## Week 14
 
-To be added.
+### Planned Topics
+* Revision
+* Practice Test
 
 ## Week 15
 
-To be added.
+### Planned Topics
+* Test
 
 ## Week 16
-
-To be added.
+* Presentations / Lightning Talks of assignment topic (a critical CVE from the past 2 years)
