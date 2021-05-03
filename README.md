@@ -59,16 +59,8 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 * [/r/crypto](https://reddit.com/r/crypto)
 * [/r/netsec](https://reddit.com/r/netsec)
 * [/r/reverseengineering](https://reddit.com/r/reverseengineering)
-* [HackerNews](https://news.ycombinator.com)
+* [HackerNews](https://news.ycombinator.com) * Often primarily startup/programming related, but occasionally has good links and discussion on security topics.
 
-## Python Exercises
-See the /exercises directory for code examples.
-
-To run them do the following:
-Click the Shell tab on repl.it
-Type `ls` to list files
-Change directory to the exercises directory: `cd exercises`
-Run the file you want using the `python` command. e.g. `python 01_print.py`.
 
 ## Week 1
 
@@ -95,7 +87,7 @@ Run the file you want using the `python` command. e.g. `python 01_print.py`.
 * https://automatetheboringstuff.com/
 
 
-### Homework Activity (See Moodle for all Homework)
+### Week 2 Homework Activity (See Moodle for all Homework)
 
 * One-Time Pad by Hand
 * Add a link below to a learning resource that's helped you so far and say why you're linking it. Resources must be unique so the faster you are the easier it'll be for you.
