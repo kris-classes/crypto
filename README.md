@@ -246,16 +246,23 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 
 ## Week 8
 
-### Planned Topics
+### Topics
 * Message Authentication Codes
 * Authenticated Encryption (AE)
-* Authenticated Encryption with Associated Data (AEAD)
-* Hashing
-* Passwords
-* HMAC
+* Hashing & Passwords
 * Diffie-Hellman Key Exchange
+* Public Key Cryptography
 
 ## Week 9
+
+### Topics - Week 8 topics in more detail
+* Message Authentication Codes
+* Authenticated Encryption (AE)
+* Hashing & Passwords
+* Diffie-Hellman Key Exchange
+* Public Key Cryptography
+
+## Week 10
 
 ### Planned Topics
 * RSA
@@ -265,7 +272,7 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 * Public Key Infrastructure (PKI)
 * Transport Layer Security (TLS)
 
-## Week 10
+## Week 11
 
 ### Planned Topics
 * Web Security Basics
@@ -274,19 +281,14 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 * OWASP Top 10
 * Containers
 
-## Week 11
+## Week 12
 
 ### Planned Topics
 * C
 * Makefiles
 * Memory Management
 * Reversing & Simple CrackMes
-
-## Week 12
-
-### Planned Topics
-* Static Analysis
-* Fuzzing
+* Static Analysis / Fuzzing
 * Antivirus Evasion
 * Blockchains
 * Cryptocurrencies
