@@ -264,11 +264,11 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 
 ## Week 10
 
-### Planned Topics
+### Topics
 * RSA
 * Elliptic Curve Cryptography (ECC)
 * Computational Hardness
-* Signatures
+* Digital Signatures
 * Public Key Infrastructure (PKI)
 * Transport Layer Security (TLS)
 
