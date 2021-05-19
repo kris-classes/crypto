@@ -284,20 +284,22 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 ## Week 12
 
 ### Planned Topics
+* More Web Security
 * C
 * Makefiles
 * Memory Management
 * Reversing & Simple CrackMes
 * Static Analysis / Fuzzing
 * Antivirus Evasion
-* Blockchains
-* Cryptocurrencies
-* Consensus
-* Network Algorithms
+
 
 ## Week 13
 
 ### Planned Topics
+* Blockchains
+* Cryptocurrencies
+* Consensus
+* Network Algorithms
 * Contact Tracing
 * Mobile Security Basics
 
