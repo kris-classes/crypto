@@ -269,6 +269,7 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 * Elliptic Curve Cryptography (ECC)
 * Computational Hardness
 * Digital Signatures
+* Non-repudiation
 * Public Key Infrastructure (PKI)
 * Transport Layer Security (TLS)
 
