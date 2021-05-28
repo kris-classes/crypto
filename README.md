@@ -275,7 +275,7 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 
 ## Week 11
 
-### Planned Topics
+### Topics
 * Web Security Basics
 * APIs
 * OAuth
@@ -285,24 +285,18 @@ I find Programming with Mosh <https://www.youtube.com/watch?v=_uQrJ0TkZlc> usefu
 ## Week 12
 
 ### Planned Topics
-* More Web Security
-* C
+* C & x64 asm
 * Makefiles
 * Memory Management
 * Reversing & Simple CrackMes
 * Static Analysis / Fuzzing
 * Antivirus Evasion
 
-
 ## Week 13
 
 ### Planned Topics
-* Blockchains
-* Cryptocurrencies
-* Consensus
-* Network Algorithms
+* Blockchains / Cryptocurrencies
 * Contact Tracing
-* Mobile Security Basics
 
 ## Week 14
 
