@@ -15,6 +15,11 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 * Programiz Python Tutorial: https://www.programiz.com/python-programming
 * NSA Python Training Document (skip to Lesson 02): https://archive.org/details/comp3321
 * Automate the Boring Stuff (Python): https://automatetheboringstuff.com/
+* [Effective C - Robert Seacord (2020)](https://nostarch.com/Effective_C) - Beginner/Intermediate
+* [Beej's Guide to C Programming (2021)](http://beej.us/guide/bgc/) - Intermediate
+* [Modern C - Jens Gustedt (2019)](https://modernc.gforge.inria.fr/) - Intermediate/Advanced
+* [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Intermediate/Secure Coding Guidelines
+* [Hacking - The Art of Exploitation by Jon Erickson (2008)](https://nostarch.com/hacking2.htm) - Advanced: includes a bunch of source code
 
 
 ## YouTube Channels
@@ -192,17 +197,27 @@ Most of the content (and lecture recordings) are on Moodle but I'm adding a list
 
 ## Week 12
 
-### Planned Topics
-* C & x64 asm
-* Makefiles
-* Memory Management
-* Reversing & Simple CrackMes
-* Static Analysis / Fuzzing
-* Antivirus Evasion
+### Topics
+
+* More UNIX: processes/suspending with ctrl-z, bg/fg, grep, tr, cut, awk, sed: https://blog.knoldus.com/play-with-text-in-linux-grep-cut-awk-sed/
+* Scope: https://en.wikipedia.org/wiki/Scope_(computer_science)
+* Reading/writing files & with statement (context managers): https://www.programiz.com/python-programming/file-operation
+* Bytes & endianness: Converting to and from bytes, and endianness. https://en.wikipedia.org/wiki/Endianness
+Using pycryptodome and other libraries: https://www.pycryptodome.org/en/latest/src/examples.html & https://github.com/vinta/awesome-python
+Unit Testing Basics & pytest: https://dev.to/edeediong/understanding-pytest-1e0p
+Regular Expressions: http://regextutorials.com/index.html
+Static Analysis Basics: pylint, mypy: https://blog.codacy.com/which-python-static-analysis-tools-should-i-use/
+Makefiles: https://makefiletutorial.com/
+Bash scripting basics: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+CommandLineFu.com: http://commandlinefu.com/
+C Basics (Complete Basics, see book recommendations for more detail)
+Interpreted languages vs Compiled languages: https://en.wikipedia.org/wiki/Interpreter_(computing)
+Program Entry Point: https://en.wikipedia.org/wiki/Entry_point
 
 ## Week 13
 
 ### Planned Topics
+* More C
 * Blockchains / Cryptocurrencies
 * Contact Tracing
 
