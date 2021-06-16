@@ -216,20 +216,19 @@ Program Entry Point: https://en.wikipedia.org/wiki/Entry_point
 
 ## Week 13
 
-### Planned Topics
+### Topics
 * More C
-* Blockchains / Cryptocurrencies
-* Contact Tracing
+* x86/64 Assembly
 
 ## Week 14
 
-### Planned Topics
+### Topics
 * Revision
 * Practice Test
 
 ## Week 15
 
-### Planned Topics
+### Topics
 * Test
 
 ## Week 16
