@@ -27,7 +27,7 @@ e.g.
 * Rajneesh
 * Jay
 * Rose
-* Aaron
+* Aaron - CVE-2020-1350
 * Lona
 * Amir
 * Ruslan
