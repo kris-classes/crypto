@@ -36,7 +36,7 @@ e.g.
 * Lakshitha
 * Farzana
 * Jason S
-* Shahid
+* Shahid - CVE-2021-3177
 * Vadim
 * Stephan
 * James
