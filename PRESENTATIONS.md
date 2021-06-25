@@ -23,7 +23,7 @@ e.g.
 * Sophia
 * Narendra
 * Sigred
-* Loni
+* Loni - CVE-2021-21985 (Remote code execution vulnerability in vSphere Client)
 * Rajneesh
 * Jay
 * Rose
