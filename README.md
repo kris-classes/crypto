@@ -231,5 +231,4 @@ Program Entry Point: https://en.wikipedia.org/wiki/Entry_point
 ### Topics
 * Test
 
-## Week 16
-* Presentations / Lightning Talks of assignment topic (a critical CVE from the past 2 years)
+## Week 16 - CVE Presentations
