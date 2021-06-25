@@ -27,7 +27,7 @@ e.g.
 * Rajneesh
 * Jay
 * Rose
-* Aaron - CVE-2020-1350
+* Aaron - CVE-2020-1350 Windows DNS Server Remote Code Execution Vulnerability
 * Lona
 * Amir
 * Ruslan
