@@ -43,6 +43,6 @@ e.g.
 * Hunter
 * Lavinia
 * Bridget
-* Kirill
+* Kirill - CVE-2021-3177
 * Kevin W
 * Simon
