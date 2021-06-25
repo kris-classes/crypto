@@ -21,7 +21,7 @@ e.g.
 * Ryan
 * Dave G
 * Sophia
-* Narendra
+* Narendra - CVE-2020-1147 
 * Sigred
 * Loni - CVE-2021-21985 (Remote code execution vulnerability in vSphere Client)
 * Rajneesh
