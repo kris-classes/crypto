@@ -6,7 +6,7 @@ e.g.
 
 
 * Sarah
-* Sirac
+* Sirac - CVE-2021-34391
 * Janine
 * Anish
 * Denise
