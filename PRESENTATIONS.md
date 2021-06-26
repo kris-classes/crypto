@@ -5,7 +5,7 @@ e.g.
 * Kris - CVE-2021-12345
 
 
-* Sarah
+* Sarah - CVE-2020-11107
 * Sirac - CVE-2021-34391
 * Janine
 * Anish
