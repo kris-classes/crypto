@@ -10,7 +10,7 @@ e.g.
 * Janine
 * Anish
 * Denise
-* Qiao
+* Qiao - CVE-2021-1692
 * Yang
 * Shweta
 * Mark
