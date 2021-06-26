@@ -37,7 +37,7 @@ e.g.
 * Farzana
 * Jason S
 * Shahid - CVE-2021-3177
-* Vadim
+* Vadim - CVE-2019-11510
 * Stephan
 * James
 * Hunter
