@@ -9,7 +9,7 @@ e.g.
 * Sirac - CVE-2021-34391
 * Janine
 * Anish
-* Denise
+* Denise - CVE-2021-3033
 * Qiao - CVE-2021-1692
 * Yang
 * Shweta
