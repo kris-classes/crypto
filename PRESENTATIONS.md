@@ -14,7 +14,7 @@ e.g.
 * Yang - CVE-2021-30481
 * Shweta-CVE-2020-15906
 
-* Mark
+* Mark CVE-2020-1472
 * Alice-CVE-2021-2021
 * Win
 * David D - CVE-2019-0708
