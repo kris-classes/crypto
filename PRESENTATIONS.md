@@ -7,7 +7,7 @@ e.g.
 
 * Sarah - CVE-2020-11107
 * Sirac - CVE-2021-34391
-* Janine
+* Janine - CVE – 2021 26855
 * Anish
 * Denise - CVE-2021-3033
 * Qiao - CVE-2021-1692
