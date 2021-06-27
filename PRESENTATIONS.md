@@ -7,14 +7,14 @@ e.g.
 
 * Sarah - CVE-2020-11107
 * Sirac - CVE-2021-34391
-* Janine - CVE – 2021 26855
+* Janine
 * Anish
 * Denise - CVE-2021-3033
 * Qiao - CVE-2021-1692
 * Yang - CVE-2021-30481
 * Shweta-CVE-2020-15906
 
-* Mark CVE-2020-1472
+* Mark
 * Alice-CVE-2021-2021
 * Win
 * David D - CVE-2019-0708
@@ -30,7 +30,7 @@ e.g.
 * Rose
 * Aaron - CVE-2020-1350 Windows DNS Server Remote Code Execution Vulnerability
 * Lona - CVE-2021-34244
-* Amir
+* Amir -CVE-2021-26857
 * Ruslan
 * Ahmad
 * Jason P
