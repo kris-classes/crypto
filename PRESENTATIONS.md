@@ -12,7 +12,8 @@ e.g.
 * Denise - CVE-2021-3033
 * Qiao - CVE-2021-1692
 * Yang
-* Shweta
+* Shweta-CVE-2020-15906
+
 * Mark
 * Alice-CVE-2021-2021
 * Win
