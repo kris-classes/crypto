@@ -17,7 +17,7 @@ e.g.
 * Mark
 * Alice-CVE-2021-2021
 * Win
-* David D
+* David D - CVE-2019-0708
 * Kevin G
 * Ryan
 * Dave G
