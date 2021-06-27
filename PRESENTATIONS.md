@@ -46,4 +46,4 @@ e.g.
 * Bridget
 * Kirill - CVE-2021-3177
 * Kevin W
-* Simon
+* Simon - CVE - 2021 - 3493
