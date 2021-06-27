@@ -11,7 +11,7 @@ e.g.
 * Anish
 * Denise - CVE-2021-3033
 * Qiao - CVE-2021-1692
-* Yang
+* Yang - CVE-2021-30481
 * Shweta-CVE-2020-15906
 
 * Mark
