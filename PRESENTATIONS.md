@@ -19,7 +19,7 @@ e.g.
 * Win
 * David D - CVE-2019-0708
 * Kevin G
-* Ryan
+* Ryan Teraimateata Grand aka Sky without a cloud CVE-2021-24305 an the XSS vulnerability
 * Dave G
 * Sophia
 * Narendra - CVE-2020-1147 
