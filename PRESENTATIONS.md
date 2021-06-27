@@ -41,7 +41,7 @@ e.g.
 * Stephan
 * James
 * Hunter
-* Lavinia - CVE-2018-18074
+* Lavinia -CVE-2021-31475
 * Bridget
 * Kirill - CVE-2021-3177
 * Kevin W
