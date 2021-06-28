@@ -32,7 +32,7 @@ e.g.
 * Lona - CVE-2021-34244
 * Amir -CVE-2021-26857
 * Ruslan
-* Ahmad
+* Ahmad: CVE-2020-16898 
 * Jason P
 * Lakshitha
 * Farzana CVE-2021-31475
