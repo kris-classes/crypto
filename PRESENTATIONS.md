@@ -25,7 +25,7 @@ e.g.
 * Narendra - CVE-2020-1147 
 * Sigred - ~~CVE-2021-2321~~ CVE-2021-25654 
 * Loni - CVE-2021-21985
-* Rajneesh
+* Rajneesh - CVE-2020-0601
 * Jay
 * Rose
 * Aaron - CVE-2020-1350 Windows DNS Server Remote Code Execution Vulnerability
