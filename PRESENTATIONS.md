@@ -36,7 +36,7 @@ e.g.
 * Jason P
 * Lakshitha
 * Farzana CVE-2021-31475
-* Jason S
+* Jason S - CVE-2020-0688 
 * Shahid - CVE-2021-20232
 * Vadim - CVE-2019-11510
 * Stephan
