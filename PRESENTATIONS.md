@@ -31,7 +31,7 @@ e.g.
 * Aaron - CVE-2020-1350 Windows DNS Server Remote Code Execution Vulnerability
 * Lona - CVE-2021-34244
 * Amir -CVE-2021-26857
-* Ruslan - CVE-2021-31955 and CVE-2021-31956
+* Ruslan - CVE-2021-3156
 * Ahmad: CVE-2020-16898 
 * Jason P
 * Lakshitha
